@@ -1,0 +1,13 @@
+{
+  "name": "clozedown",
+  "version": "0.0.0",
+  "bin": "lib/cli.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-highlight": "^2.0.0",
+    "diff": "^3.5.0",
+    "globby": "^8.0.1",
+    "prompts": "^0.1.14",
+    "remark": "^9.0.0"
+  }
+}
